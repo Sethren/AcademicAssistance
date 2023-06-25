@@ -1,0 +1,32 @@
+{
+  "name": "academic-assistance",
+  "version": "1.0.0",
+  "description": "Academic Assistance",
+  "author": "Seth Stone <gostone@ucsc.edu>",
+  "license": "UNLICENSED",
+  "repository": "none",
+  "devDependencies": {
+    "react-scripts": "*"
+  },
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

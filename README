@@ -1,0 +1,11 @@
+To install node packages:
+
+  $ npm install
+
+To run the Web App: (a new browser window will appear)
+
+  $ npm start
+
+To build a deployable version of the Web App in the 'build' directory
+
+  $ npm run build
