@@ -1,0 +1,1148 @@
+{
+  "CSE 3": {},
+  "CSE 5J": {},
+  "CSE 10": {},
+  "CSE 12": {
+    "OR": [
+      "CSE 5J,",
+      "CSE 20,",
+      "CSE 30,",
+      "BME 160,",
+      "equivalent"
+    ]
+  },
+  "CSE 13S": {
+    "OR": [
+      "CSE 12",
+      "BME 160"
+    ]
+  },
+  "CSE 16": {
+    "OR": [
+      "MATH 19A",
+      "MATH 19B",
+      "MATH 11B",
+      "AM 11B",
+      "AM 15B",
+      "ECON 11B"
+    ]
+  },
+  "CSE 20": {},
+  "CSE 30": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 20",
+          "BME 160"
+        ]
+      },
+      {
+        "OR": [
+          "MATH 3",
+          "MATH 11A",
+          "MATH 19A",
+          "AM 3",
+          "AM 11A",
+          "ECON 11A,",
+          "a score of 400",
+          "higher on the mathematics placement examination (MPE)"
+        ]
+      }
+    ]
+  },
+  "CSE 40": {
+    "AND": [
+      {
+        "OR": [
+          "MATH 19B",
+          "MATH 20B,"
+        ]
+      },
+      "CSE 30"
+    ]
+  },
+  "CSE 80A": {},
+  "CSE 80L": {},
+  "CSE 80N": {},
+  "CSE 80S": {
+    "AND": [
+      {
+        "OR": [
+          "MATH 3",
+          "MATH 11A"
+        ]
+      },
+      {
+        "OR": [
+          "or AM 3",
+          "AM 6",
+          "AM 11A",
+          "AM 15A"
+        ]
+      },
+      "or ECON 11A",
+      {
+        "OR": [
+          "or score on math placement exam of 300",
+          "higher"
+        ]
+      }
+    ]
+  },
+  "CSE 94": {},
+  "CSE 94F": {},
+  "CSE 99": {},
+  "CSE 99F": {},
+  "CSE 100": {
+    "AND": [
+      "CSE 12",
+      {
+        "OR": [
+          "previous",
+          "concurrent enrollment in CSE 100L is required"
+        ]
+      }
+    ]
+  },
+  "CSE 100L": {
+    "AND": [
+      "CSE 12",
+      {
+        "OR": [
+          "previous",
+          "concurrent enrollment in CSE 100 is required"
+        ]
+      }
+    ]
+  },
+  "CSE 101": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 12",
+          "BME 160"
+        ]
+      },
+      {
+        "OR": [
+          "CSE 13E",
+          "ECE 13",
+          "CSE 13S"
+        ]
+      },
+      "CSE 16",
+      "CSE 30",
+      {
+        "OR": [
+          "MATH 11B",
+          "MATH 19B",
+          "MATH 20B",
+          "AM 11B"
+        ]
+      }
+    ]
+  },
+  "CSE 101M": "CSE 101",
+  "CSE 102": "CSE 101",
+  "CSE 103": "CSE 101",
+  "CSE 104": "CSE 103",
+  "CSE 105": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 102",
+          "equivalent",
+          "instructor consent Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory,"
+        ]
+      },
+      "overall mathematical maturity"
+    ]
+  },
+  "CSE 106": "CSE 101",
+  "CSE 107": {
+    "AND": [
+      "CSE 16",
+      {
+        "OR": [
+          "AM 30",
+          "MATH 22",
+          "MATH 23A"
+        ]
+      }
+    ]
+  },
+  "CSE 108": {
+    "AND": [
+      "CSE 101 Enrollment restricted to computer engineering",
+      "computer science majors"
+    ]
+  },
+  "CSE 110A": {
+    "AND": [
+      "CSE 12",
+      "CSE 101"
+    ]
+  },
+  "CSE 110B": "CSE 110A",
+  "CSE 111": {
+    "AND": [
+      {
+        "AND": [
+          "CSE 15",
+          "CSE 15L"
+        ]
+      },
+      {
+        "AND": [
+          "or CSE 13S",
+          "CMPM 35"
+        ]
+      },
+      {
+        "AND": [
+          "or CSE 13E",
+          "CMPM 35"
+        ]
+      },
+      {
+        "AND": [
+          "or ECE 13",
+          "CMPM 35"
+        ]
+      },
+      "or CSE 101"
+    ]
+  },
+  "CSE 112": "CSE 101",
+  "CSE 113": {
+    "AND": [
+      "CSE 12",
+      "CSE 101 CSE 120 recommended"
+    ]
+  },
+  "CSE 114A": "CSE 101",
+  "CSE 114B": {
+    "AND": [
+      "CSE 114A Enrollment is restricted to junior",
+      "senior computer science majors"
+    ]
+  },
+  "CSE 115A": {
+    "AND": [
+      "satisfaction of the Entry Level Writing",
+      "Composition requirements",
+      "CSE 101",
+      "CSE 130"
+    ]
+  },
+  "CSE 115B": "CSE 115A",
+  "CSE 115C": "CSE 115B",
+  "CSE 115D": "CSE 115A",
+  "CSE 117": {
+    "AND": [
+      "CSE 101",
+      {
+        "OR": [
+          "CSE 102",
+          "CSE 111",
+          "CSE 115A Enrollment restricted to School of Engineering majors"
+        ]
+      }
+    ]
+  },
+  "CSE 118": {
+    "AND": [
+      "CSE 101 Enrollment is restricted to juniors",
+      "seniors"
+    ]
+  },
+  "CSE 119": "CSE 101",
+  "CSE 120": {
+    "AND": [
+      "CSE 12",
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 13E,",
+              "CSE 13S,",
+              "ECE 13,",
+              "CSE 15"
+            ]
+          },
+          "CSE 15L CSE 16 recommended"
+        ]
+      }
+    ]
+  },
+  "CSE 121": {
+    "AND": [
+      "CSE 12, CSE 100, CSE 100L",
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 13E",
+              "CSE 13S",
+              "ECE 13",
+              "CSE 15"
+            ]
+          },
+          "CSE 15L"
+        ]
+      },
+      {
+        "AND": [
+          "ECE 101, ECE 101L, PHYS 5C",
+          "PHYS 5N"
+        ]
+      }
+    ]
+  },
+  "CSE 122": {
+    "AND": [
+      "CSE 100, CSE 100L, ECE 101,",
+      "ECE 101L"
+    ]
+  },
+  "CSE 123A": {
+    "AND": [
+      "CSE 121",
+      {
+        "OR": [
+          "previous",
+          "concurrent enrollment in CSE 185E"
+        ]
+      }
+    ]
+  },
+  "CSE 123B": {
+    "AND": [
+      "CSE 123A,",
+      {
+        "OR": [
+          "CSE 185E",
+          "CSE 185S"
+        ]
+      }
+    ]
+  },
+  "CSE 125": {
+    "AND": [
+      "CSE 100",
+      "CSE 100L",
+      "CSE 120"
+    ]
+  },
+  "CSE 129A": {
+    "AND": [
+      {
+        "OR": [
+          "previous",
+          "concurrent enrollment in courses CSE 121"
+        ]
+      },
+      "CSE 121L Enrollment is restricted to bioengineering, biomolecular engineering",
+      "bioinformatics, computer engineering,",
+      "robotics engineering majors"
+    ]
+  },
+  "CSE 129B": {},
+  "CSE 129C": {},
+  "CSE 130": {
+    "AND": [
+      "CSE 12",
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 101,",
+              "CSE 15"
+            ]
+          },
+          "CSE 15L"
+        ]
+      },
+      "knowledge of C programming language"
+    ]
+  },
+  "CSE 132": {
+    "OR": [
+      "CSE 130",
+      "CSE 131",
+      "permission of instructor Enrollment restricted to School of Engineering majors"
+    ]
+  },
+  "CSE 134": {
+    "AND": [
+      "CSE 120",
+      "CSE 130"
+    ]
+  },
+  "CSE 138": {
+    "OR": [
+      "CSE 130",
+      "CSE 131"
+    ]
+  },
+  "CSE 140": "CSE 101",
+  "CSE 142": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 40",
+          "STAT 132"
+        ]
+      },
+      "CSE 101",
+      {
+        "OR": [
+          "AM 30,",
+          "MATH 22,",
+          "MATH 23A"
+        ]
+      },
+      {
+        "OR": [
+          "STAT 131",
+          "CSE 107"
+        ]
+      }
+    ]
+  },
+  "CSE 143": {
+    "AND": [
+      "CSE 101,",
+      {
+        "OR": [
+          "CSE 107",
+          "STAT 131 Python competence equivalent to CSE 30 is highly recommended"
+        ]
+      }
+    ]
+  },
+  "CSE 144": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 40",
+          "STAT 132"
+        ]
+      },
+      {
+        "AND": [
+          "CSE 101 Enrollment is restricted to juniors",
+          "seniors"
+        ]
+      }
+    ]
+  },
+  "CSE 145": {
+    "AND": [
+      {
+        "AND": [
+          "CSE 15",
+          {
+            "OR": [
+              "CSE 15L",
+              "CSE 30",
+              "CSE 13S"
+            ]
+          }
+        ]
+      },
+      {
+        "OR": [
+          "AM 30",
+          "MATH 22",
+          "MATH 23A"
+        ]
+      },
+      {
+        "OR": [
+          "STAT 5",
+          "CSE 107",
+          "STAT 131"
+        ]
+      },
+      {
+        "OR": [
+          "AM 10",
+          "MATH 21"
+        ]
+      },
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 16",
+              "ECON 113 Enrollment restricted to juniors"
+            ]
+          },
+          "seniors Graduate students by permission of instructor"
+        ]
+      }
+    ]
+  },
+  "CSE 146": {
+    "AND": [
+      "CSE 101",
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 107",
+              "STAT 131 CSE 142"
+            ]
+          },
+          "CSE 140 are recommended"
+        ]
+      }
+    ]
+  },
+  "CSE 150": {
+    "AND": [
+      {
+        "AND": [
+          "CSE 16",
+          "CSE 12"
+        ]
+      },
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 30,",
+              "CSE 15"
+            ]
+          },
+          "CSE 15L"
+        ]
+      }
+    ]
+  },
+  "CSE 151": "CSE 150 Concurrent enrollment in CSE 151L is required",
+  "CSE 151L": "CSE 150 Concurrent enrollment in CSE 151 is required",
+  "CSE 152": {
+    "AND": [
+      "CSE 107, CSE 150,",
+      "CSE 150L"
+    ]
+  },
+  "CSE 156": {
+    "AND": [
+      "CSE 150",
+      "CSE 101 Concurrent enrollment in course CSE 156L is required"
+    ]
+  },
+  "CSE 156L": {
+    "AND": [
+      "CSE 150",
+      "CSE 101 Concurrent enrollment in CSE 156 is required"
+    ]
+  },
+  "CSE 157": {
+    "AND": [
+      "CSE 121",
+      "CSE 150"
+    ]
+  },
+  "CSE 160": {
+    "AND": [
+      "CSE 101",
+      {
+        "OR": [
+          "MATH 21",
+          "AM 10"
+        ]
+      }
+    ]
+  },
+  "CSE 161": {
+    "OR": [
+      "CSE 160",
+      "equivalent Concurrent enrollment in CSE 161L is required"
+    ]
+  },
+  "CSE 161L": "enrollment in CSE 161 is required",
+  "CSE 162": {
+    "OR": [
+      "CSE 160",
+      "equivalent Concurrent enrollment in CSE 162L is required"
+    ]
+  },
+  "CSE 162L": "concurrent enrollment in CSE 162 is required",
+  "CSE 163": "CSE 101",
+  "CSE 164": "CSE 144",
+  "CSE 165": "CSE 15",
+  "CSE 167": {
+    "AND": [
+      "CSE 13S",
+      {
+        "OR": [
+          "or CSE 13E",
+          "ECE 13"
+        ]
+      },
+      {
+        "AND": [
+          "or CSE 15",
+          "CSE 15L"
+        ]
+      },
+      {
+        "OR": [
+          "PHYS 5A",
+          "PHYS 6A"
+        ]
+      },
+      {
+        "OR": [
+          "AM 10",
+          "MATH 21"
+        ]
+      }
+    ]
+  },
+  "CSE 168": {},
+  "CSE 180": "CSE 101",
+  "CSE 181": {
+    "AND": [
+      "CSE 180",
+      "CSE 130"
+    ]
+  },
+  "CSE 182": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 16",
+          "BME 160"
+        ]
+      },
+      {
+        "AND": [
+          "CSE 15",
+          {
+            "OR": [
+              "CSE 15L",
+              "CSE 13E",
+              "CSE 13S",
+              "ECE 13 Course intended for non-majors"
+            ]
+          }
+        ]
+      },
+      "computer science majors should enroll in CSE 180"
+    ]
+  },
+  "CSE 183": {
+    "AND": [
+      "CSE 15",
+      {
+        "OR": [
+          "CSE 15L,",
+          "CMPM 35,",
+          "CSE 101"
+        ]
+      }
+    ]
+  },
+  "CSE 184": "CSE 101",
+  "CSE 185E": {
+    "AND": [
+      {
+        "AND": [
+          "satisfaction of Entry Level Writing",
+          "Composition requirements"
+        ]
+      },
+      {
+        "AND": [
+          {
+            "OR": [
+              "CSE 12",
+              "CSE 15",
+              "CSE 30",
+              "BME 160",
+              "by permission of the instructor Enrollment is restricted to computer engineering, bioengineering, bioinformatics, biomolecular engineering"
+            ]
+          },
+          {
+            "OR": [
+              "bioinformatics,",
+              "network"
+            ]
+          },
+          "digital technology majors"
+        ]
+      }
+    ]
+  },
+  "CSE 186": {
+    "AND": [
+      "CSE 15",
+      {
+        "OR": [
+          "CSE 15L,",
+          "CSE 30,",
+          "CSE 101 Enrollment is restricted to juniors"
+        ]
+      },
+      "seniors majoring in computer engineering, computer science,",
+      "computer game design"
+    ]
+  },
+  "CSE 187": {
+    "AND": [
+      "CSE 186 Enrollment is restricted to juniors",
+      "seniors"
+    ]
+  },
+  "CSE 191": {},
+  "CSE 192": {},
+  "CSE 192F": {},
+  "CSE 193": {},
+  "CSE 193F": {},
+  "CSE 194": {},
+  "CSE 194F": {},
+  "CSE 195": {},
+  "CSE 195F": {},
+  "CSE 198": {},
+  "CSE 198F": {},
+  "CSE 199": {},
+  "CSE 199F": {},
+  "CSE 200": "is restricted to graduate students",
+  "CSE 201": {
+    "AND": [
+      "is restricted to graduate students",
+      {
+        "AND": [
+          {
+            "OR": [
+              "undergraduate students may enroll in this course if they have completed CSE 102",
+              "CSE 106"
+            ]
+          },
+          "have the consent of the instructor"
+        ]
+      }
+    ]
+  },
+  "CSE 202": "CSE 201",
+  "CSE 203": {
+    "AND": [
+      "CSE 201 Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory,",
+      "overall mathematical maturity Enrollment is restricted to graduate students Undergraduates with a good understanding of the material in CSE 101, CSE 102,",
+      "CSE 103,",
+      "real analysis can enroll with permission of the instructor"
+    ]
+  },
+  "CSE 204": "CSE 201",
+  "CSE 205": "is restricted to graduate students",
+  "CSE 206C": {},
+  "CSE 207": {
+    "AND": [
+      {
+        "AND": [
+          "CSE 101",
+          "CSE 102"
+        ]
+      },
+      "or CSE 106",
+      "or CSE 201",
+      "or equivalent Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 209A": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 201",
+          "equivalent",
+          "instructor consent Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory,"
+        ]
+      },
+      "overall mathematical maturity Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 210A": {
+    "AND": [
+      "is restricted to graduate students",
+      {
+        "AND": [
+          "undergraduate students may enroll for this course if they have completed CSE 112",
+          "have the consent of the instructor"
+        ]
+      }
+    ]
+  },
+  "CSE 210B": {
+    "OR": [
+      "CSE 210A",
+      "equivalent"
+    ]
+  },
+  "CSE 211": "is restricted to graduate students",
+  "CSE 212A": {
+    "AND": [
+      "is restricted to graduate students",
+      "undergraduates may enroll in this course if they have completed CSE 115A"
+    ]
+  },
+  "CSE 212B": {
+    "OR": [
+      "CSE 212A",
+      "consent of instructor Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 214": {
+    "OR": [
+      "CSE 201",
+      "equivalent",
+      "consent of instructor Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 215": "Enrollment is restricted to graduate students Undergraduates that have taken CSE 181 may enroll A basic knowledge of databases, similar to the content of CSE 180, is recommended",
+  "CSE 216": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 103",
+          "equivalent recommended, but not required Enrollment is restricted to graduate students"
+        ]
+      },
+      "undergraduates may enroll by permission of instructor"
+    ]
+  },
+  "CSE 220": {
+    "AND": [
+      "is restricted to graduate students",
+      {
+        "AND": [
+          "undergraduates may enroll if they have completed CSE 120",
+          "with consent of instructor A basic knowledge of computer architecture, similar to the content of CSE 120, is recommended"
+        ]
+      }
+    ]
+  },
+  "CSE 221": {
+    "AND": [
+      "CSE 220",
+      {
+        "OR": [
+          "CSE 125, CSE 225,",
+          "equivalent Verilog experience Concurrent enrollment in CSE 221L is required Enrollment restricted to graduate students"
+        ]
+      }
+    ]
+  },
+  "CSE 221L": {
+    "AND": [
+      "CSE 220",
+      {
+        "OR": [
+          "CSE 125, CSE 225,",
+          "equivalent Verilog experience Concurrent enrollment in CSE 221 is required Enrollment restricted to graduate students"
+        ]
+      }
+    ]
+  },
+  "CSE 222A": {
+    "OR": [
+      "CSE 122",
+      "equivalent"
+    ]
+  },
+  "CSE 222B": {
+    "OR": [
+      "CSE 222A",
+      "permission of instructor Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 225": {
+    "AND": [
+      {
+        "OR": [
+          "CSE 120",
+          "CSE 220 Enrollment is restricted to graduate students"
+        ]
+      },
+      "undergraduates may enroll with permission of instructor Students with hardware background should consult instructor for permission to enroll"
+    ]
+  },
+  "CSE 226": {
+    "AND": [
+      "is restricted to graduate students",
+      "undergraduates may enroll with permission of instructor"
+    ]
+  },
+  "CSE 228A": {
+    "AND": [
+      {
+        "OR": [
+          "equivalent experience in at least two of the following three areas: logic design (Verilog/VHDL eg CSE 100/CSE 100L",
+          "CSE 125/CSE 125L), computer architecture (CSE 120/CSE 220), advanced programming (functional, object oriented, etc) Enrollment is restricted to graduate students"
+        ]
+      },
+      "open to advanced undergraduates with instructor consent"
+    ]
+  },
+  "CSE 229": {
+    "OR": [
+      "is restricted to graduate students",
+      "by consent of instructor CSE 100, CSE 125, CSE 222A, CSE 225,",
+      "other digital design experience recommended"
+    ]
+  },
+  "CSE 231": {
+    "AND": [
+      "is restricted to graduate students",
+      "undergraduates by interview only"
+    ]
+  },
+  "CSE 232": "is restricted to graduate students",
+  "CSE 233": {
+    "OR": [
+      "is restricted to graduate students",
+      "consent of instructor"
+    ]
+  },
+  "CSE 234": "CSE 201 Enrollment is restricted to graduate students",
+  "CSE 235": "is restricted to graduate students",
+  "CSE 237": "is restricted to graduate students",
+  "CSE 240": {},
+  "CSE 241": {},
+  "CSE 242": {
+    "AND": [
+      {
+        "AND": [
+          "is restricted to graduate students in the computer science",
+          "engineering, computer engineering",
+          "computer science master's programs"
+        ]
+      },
+      {
+        "AND": [
+          "students in the following doctoral programs: computer science",
+          "engineering, computer engineering, computer science, applied mathematics, applied mathematics",
+          "statistics, biomolecular engineering",
+          "bioinformatics, electrical",
+          "computer engineering, electrical engineering, statistical science,",
+          "technology information management Others may enroll by permission of the instructor"
+        ]
+      }
+    ]
+  },
+  "CSE 243": "is restricted to graduate students",
+  "CSE 244A": {
+    "AND": [
+      "CSE 201",
+      "familiarity with basic machine learning concepts Enrollment is restricted to computer science",
+      "engineering graduate students"
+    ]
+  },
+  "CSE 244B": "CSE 244A",
+  "CSE 245": "is restricted to graduate students Undergraduates may enroll with permission of instructor",
+  "CSE 246": "is restricted to graduate students",
+  "CSE 247": {},
+  "CSE 248": "CSE 201 Enrollment is restricted to graduate students",
+  "CSE 249": {
+    "OR": [
+      "CSE 107",
+      "STAT 131",
+      "permission of instructor Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 250A": "is restricted to graduate students",
+  "CSE 250B": "CSE 250A Enrollment is restricted to graduate students",
+  "CSE 250C": "CSE 250B",
+  "CSE 253": {
+    "AND": [
+      "CSE 250A",
+      "CSE 201 Enrollment restricted to graduate students"
+    ]
+  },
+  "CSE 257": {
+    "OR": [
+      "CSE 250A",
+      "permission of instructor"
+    ]
+  },
+  "CSE 259": "CSE 250A CSE 257 is recommended as a prerequisite",
+  "CSE 260": {
+    "AND": [
+      "is restricted to graduate students",
+      "undergraduates by interview only"
+    ]
+  },
+  "CSE 261": "is restricted to graduate students",
+  "CSE 262": "is restricted to graduate students",
+  "CSE 263": {},
+  "CSE 264": "is restricted to graduate students Undergraduate students who are interested in enrolling should meet with the instructor first",
+  "CSE 265": "is restricted to graduate students",
+  "CSE 272": "is restricted to graduate students Undergraduates may enroll with permission of instructor",
+  "CSE 276": {
+    "AND": [
+      "calculus",
+      "linear algebra Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 277": {
+    "OR": [
+      "is restricted to graduate students Prerequisite: CSE 107",
+      "other undergraduate probability course recommended"
+    ]
+  },
+  "CSE 279": {
+    "AND": [
+      "is restricted to graduate students Students are expected to have undergraduate preparation in probability",
+      "statistics Undergraduates may enroll with instructor approval"
+    ]
+  },
+  "CSE 280A": {},
+  "CSE 280D": {},
+  "CSE 280F": "Enrollment is restricted to graduate students",
+  "CSE 280G": {},
+  "CSE 280H": "is restricted to graduate students",
+  "CSE 280I": "is restricted to graduate students",
+  "CSE 280J": {},
+  "CSE 280K": {},
+  "CSE 280L": {},
+  "CSE 280M": {},
+  "CSE 280N": {},
+  "CSE 280O": {
+    "OR": [
+      "is restricted to graduate students,",
+      "by permission of the instructor"
+    ]
+  },
+  "CSE 280P": "is restricted to graduate students",
+  "CSE 280S": {},
+  "CSE 280T": {},
+  "CSE 280V": {},
+  "CSE 280X": {},
+  "CSE 280Z": {},
+  "CSE 285": {},
+  "CSE 290A": "is restricted to graduate students",
+  "CSE 290C": "CSE 242",
+  "CSE 290D": "is restricted to graduate students",
+  "CSE 290E": {
+    "AND": [
+      "CSE 201",
+      "CSE 210A Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 290F": {
+    "AND": [
+      "CSE 16",
+      "AM 10 Enrollment is restricted to graduate students",
+      "upper-division undergraduates"
+    ]
+  },
+  "CSE 290G": {
+    "AND": [
+      "CSE 212A recommended Enrollment is restricted to graduate students",
+      "undergraduates may enroll with permission of instructor"
+    ]
+  },
+  "CSE 290H": {
+    "OR": [
+      "CSE 180 (or equivalent)",
+      "CSE 214",
+      "consent of instructor Enrollment is restricted to graduate students"
+    ]
+  },
+  "CSE 290J": {},
+  "CSE 290K": {
+    "AND": [
+      "is restricted to computer science",
+      "engineering, computer engineering, computer science,",
+      "technology management graduate students"
+    ]
+  },
+  "CSE 290L": "is restricted to graduate students",
+  "CSE 290M": "is restricted to graduate students",
+  "CSE 290N": "is restricted to graduate students",
+  "CSE 290O": {
+    "AND": [
+      "CSE 201",
+      "CSE 242 Enrollment is restricted to computer engineering",
+      "computer science graduate students"
+    ]
+  },
+  "CSE 290P": {
+    "AND": [
+      "CSE 201",
+      {
+        "OR": [
+          "CSE 242",
+          "equivalent Enrollment is restricted to graduate students"
+        ]
+      }
+    ]
+  },
+  "CSE 290Q": "CSE 210A Enrollment is restricted to graduate students",
+  "CSE 290S": {
+    "AND": [
+      "CSE 231 recommended Enrollment is restricted to graduate students",
+      "qualified undergraduates may enroll with instructor's consent"
+    ]
+  },
+  "CSE 290T": "is restricted to graduate students",
+  "CSE 290X": {},
+  "CSE 293": {},
+  "CSE 296": {},
+  "CSE 297A": {},
+  "CSE 297B": {},
+  "CSE 297C": {},
+  "CSE 297F": {},
+  "CSE 299A": {},
+  "CSE 299B": {},
+  "CSE 299C": {},
+  "CSE 299F": {},
+  "ECE 253": "is restricted to graduate students",
+  "ECON 166B": {
+    "AND": [
+      {
+        "OR": [
+          "ECON 166A",
+          "CSE 166A"
+        ]
+      },
+      {
+        "AND": [
+          "satisfaction of the Entry Level Writing",
+          "Composition requirements Enrollment is restricted to juniors",
+          "seniors"
+        ]
+      }
+    ]
+  },
+  "ECON 272": {},
+  "PHYS 150": {
+    "AND": [
+      {
+        "OR": [
+          "116A",
+          "MATH 21",
+          "AM 10 Enrollment is restricted to juniors"
+        ]
+      },
+      "seniors"
+    ]
+  },
+  "STAT 266A": {},
+  "STAT 266B": {
+    "OR": [
+      "STAT 266A",
+      "CSE 266A"
+    ]
+  },
+  "STAT 266C": {
+    "OR": [
+      "STAT 266A",
+      "CSE 266A"
+    ]
+  }
+}
