@@ -1,0 +1,1108 @@
+{
+  "ECE 1": {
+    "name": "Hands-On Computer Engineering",
+    "credits": 2,
+    "label": "ECE",
+    "id": "1",
+    "prerequisites": {
+      "AND": [
+        "restricted to first-year students",
+        "sophom",
+        "es"
+      ]
+    }
+  },
+  "ECE 8": {
+    "name": "Robot Automation: Intelligence through Feedback Control",
+    "credits": 5,
+    "label": "ECE",
+    "id": "8",
+    "prerequisites": {
+      "AND": [
+        "enrollment restricted to first-year students",
+        "sophom",
+        "es"
+      ]
+    }
+  },
+  "ECE 9": {
+    "name": "Statics and Mechanics of Materials",
+    "credits": 5,
+    "label": "ECE",
+    "id": "9",
+    "prerequisites": {
+      "AND": [
+        "MATH 19A",
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L",
+            "PHYS 6A",
+            "PHYS 6L"
+          ]
+        },
+        {
+          "AND": [
+            "AM 10",
+            "MATH 21"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 10": {
+    "name": "Fundamentals of Robot Kinematics and Dynamics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "10",
+    "prerequisites": {
+      "AND": [
+        "ECE 9",
+        "AM 20",
+        "MATH 24"
+      ]
+    }
+  },
+  "ECE 11": {
+    "name": "3D Prototyping",
+    "credits": 5,
+    "label": "ECE",
+    "id": "11",
+    "prerequisites": {
+      "AND": [
+        "previous",
+        "concurrent enrollment in ECE 9"
+      ]
+    }
+  },
+  "ECE 13": {
+    "name": "Computer Systems and C Programming",
+    "credits": 7,
+    "label": "ECE",
+    "id": "13",
+    "prerequisites": {
+      "AND": [
+        "CSE 12 CSE 20",
+        "CSE 30 (Python programming background) is recommended but not required Programming experience in any other language is also acceptable"
+      ]
+    }
+  },
+  "ECE 30": {
+    "name": "Engineering Principles of Electronics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "30",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 19B Enrollment is restricted to computer engineering computer science: computer game design computer science netw",
+            "k",
+            "digital technology",
+            "technology",
+            "inf",
+            "mation management maj",
+            "s",
+            "proposed maj",
+            "s"
+          ]
+        },
+        {
+          "AND": [
+            "to computer engineering computer science",
+            "technology",
+            "inf",
+            "mation management min",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 80B": {
+    "name": "Engineering\u00a0Innovations\u00a0for\u00a0Medicine\u00a0and\u00a0Natural\u00a0Sciences",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80B",
+    "prerequisites": {}
+  },
+  "ECE 80G": {
+    "name": "Creating and Financing a Sustainable Startup in the Global Economy",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80G",
+    "prerequisites": {}
+  },
+  "ECE 80H": {
+    "name": "Bending the Curve: Solutions to Climate Change",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80H",
+    "prerequisites": {}
+  },
+  "ECE 80E": {
+    "name": "Engineering Ethics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80E",
+    "prerequisites": {}
+  },
+  "ECE 80J": {
+    "name": "Renewable Energy Sources, Storage, and Smart Grids",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80J",
+    "prerequisites": {}
+  },
+  "ECE 80S": {
+    "name": "Sustainability Engineering and Practice",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80S",
+    "prerequisites": {}
+  },
+  "ECE 80T": {
+    "name": "Modern Electronic Technology and How It Works",
+    "credits": 5,
+    "label": "ECE",
+    "id": "80T",
+    "prerequisites": {}
+  },
+  "ECE 94": {
+    "name": "Group Tutorial",
+    "credits": 5,
+    "label": "ECE",
+    "id": "94",
+    "prerequisites": {}
+  },
+  "ECE 94F": {
+    "name": "Group Tutorial",
+    "credits": 2,
+    "label": "ECE",
+    "id": "94F",
+    "prerequisites": {}
+  },
+  "ECE 99": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "ECE",
+    "id": "99",
+    "prerequisites": {}
+  },
+  "ECE 99F": {
+    "name": "Tutorial",
+    "credits": 2,
+    "label": "ECE",
+    "id": "99F",
+    "prerequisites": {}
+  },
+  "ECE 101": {
+    "name": "Introduction to Electronic Circuits",
+    "credits": 5,
+    "label": "ECE",
+    "id": "101",
+    "prerequisites": {
+      "AND": [
+        "MATH 24",
+        {
+          "AND": [
+            "PHYS 5C",
+            "PHYS 5N"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 6C",
+            "PHYS 6N"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 24",
+            "previous",
+            "concurrent enrollment in AM 20 Concurrent enrollment in ECE 101L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 101L": {
+    "name": "Introduction to Electronic Circuits Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "101L",
+    "prerequisites": {
+      "AND": [
+        "MATH 24",
+        {
+          "AND": [
+            "PHYS 5C",
+            "PHYS 5N",
+            "PHYS 6C",
+            "PHYS 6N"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 24",
+            "previous",
+            "concurrent enrollment in AM 20 Concurrent enrollment in ECE 101 is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 102": {
+    "name": "Properties of Materials",
+    "credits": 5,
+    "label": "ECE",
+    "id": "102",
+    "prerequisites": {
+      "AND": [
+        "PHYS 6A",
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L PHYS 5B",
+            "PHYS 5M",
+            "PHYS 5C",
+            "5N"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 6A",
+            "PHYS 6L PHYS 6B",
+            "PHYS 6M",
+            "PHYS 6C",
+            "PHYS 6N Concurrent enrollment in ECE 102L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 102L": {
+    "name": "Properties of Materials Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "102L",
+    "prerequisites": {
+      "AND": [
+        "PHYS 6A",
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L PHYS 5B",
+            "PHYS 5M",
+            "PHYS 5C",
+            "5N"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 6A",
+            "PHYS 6L PHYS 6B",
+            "PHYS 6M",
+            "PHYS 6C",
+            "PHYS 6N Concurrent enrollment in ECE 102 is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 103": {
+    "name": "Signals and Systems",
+    "credits": 5,
+    "label": "ECE",
+    "id": "103",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L"
+          ]
+        },
+        {
+          "AND": [
+            "AM 20",
+            "MATH 24"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 103L": {
+    "name": "Signals and Systems Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "103L",
+    "prerequisites": {
+      "AND": [
+        "ECE 101",
+        "ECE 101L",
+        "AM 20",
+        "MATH 24 Concurrent enrollment in ECE 103 is required"
+      ]
+    }
+  },
+  "ECE 104": {
+    "name": "Bioelectronics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "104",
+    "prerequisites": {
+      "AND": [
+        "is restricted to juni",
+        "s seni",
+        "s",
+        "graduate students"
+      ]
+    }
+  },
+  "ECE 115": {
+    "name": "Introduction to Solid Mechanics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "115",
+    "prerequisites": {
+      "AND": [
+        "ECE 9",
+        "MATH 19B",
+        "AM 10",
+        "MATH 21"
+      ]
+    }
+  },
+  "ECE 118": {
+    "name": "Introduction to Mechatronics",
+    "credits": 10,
+    "label": "ECE",
+    "id": "118",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L",
+            "CSE 100",
+            "CSE 100L"
+          ]
+        },
+        {
+          "AND": [
+            "ECE 13",
+            "CSE 13E\u00a0ECE 121",
+            "ECE 167 are highly recommended (but not required)"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 121": {
+    "name": "Microcontroller\u00a0System\u00a0Design",
+    "credits": 7,
+    "label": "ECE",
+    "id": "121",
+    "prerequisites": {
+      "AND": [
+        "ECE 13",
+        "CSE 12",
+        {
+          "AND": [
+            "ECE 13",
+            "CSE 13E Concurrent enrollment in  ECE 101",
+            "ECE 101L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 122A": {
+    "name": "Collaborative Sustainability Project Design",
+    "credits": 5,
+    "label": "ECE",
+    "id": "122A",
+    "prerequisites": {}
+  },
+  "ECE 122B": {
+    "name": "Collaborative Sustainability Project Implementation",
+    "credits": 5,
+    "label": "ECE",
+    "id": "122B",
+    "prerequisites": {}
+  },
+  "ECE 122C": {
+    "name": "Collaborative Sustainability Project Implementation",
+    "credits": 5,
+    "label": "ECE",
+    "id": "122C",
+    "prerequisites": {}
+  },
+  "ECE 129A": {
+    "name": "Capstone Project I",
+    "credits": 5,
+    "label": "ECE",
+    "id": "129A",
+    "prerequisites": {
+      "AND": [
+        "WRIT 1",
+        {
+          "AND": [
+            "satisfaction of the Entry Level Writing",
+            "Composition requirements",
+            "CSE 100"
+          ]
+        },
+        {
+          "AND": [
+            "enrollment restricted to seni",
+            "Electrical Engineering",
+            "Robotics Engineering maj",
+            "s Electrical Engineering maj",
+            "s must complete ECE 171"
+          ]
+        },
+        {
+          "AND": [
+            "ECE 157",
+            "ECE 173",
+            "ECE 118",
+            "ECE 121 Robotics Engineering maj",
+            "s must complete ECE 118",
+            "ECE 121"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 129B": {
+    "name": "Capstone Project II",
+    "credits": 5,
+    "label": "ECE",
+    "id": "129B",
+    "prerequisites": {
+      "AND": [
+        "satisfaction of the Entry Level Writing",
+        "Composition requirements",
+        "ECE 129A Enrollment is restricted to seni",
+        "s"
+      ]
+    }
+  },
+  "ECE 129C": {
+    "name": "Capstone Project III",
+    "credits": 5,
+    "label": "ECE",
+    "id": "129C",
+    "prerequisites": {
+      "AND": [
+        "satisfaction of the Entry Level Writing",
+        "Composition requirements",
+        "ECE 129B Enrollment is restricted to seni",
+        "s"
+      ]
+    }
+  },
+  "ECE 130": {
+    "name": "Introduction to Optoelectronics and Photonics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "130",
+    "prerequisites": {
+      "AND": [
+        "ECE 130L",
+        {
+          "AND": [
+            "PHYS 5B",
+            "PHYS 5C",
+            "PHYS 6B",
+            "PHYS 6C"
+          ]
+        },
+        "concurrent enrollment in ECE 130L"
+      ]
+    }
+  },
+  "ECE 130L": {
+    "name": "Introduction to Optoelectronics Laboratory",
+    "credits": 1,
+    "label": "ECE",
+    "id": "130L",
+    "prerequisites": {
+      "AND": [
+        "ECE 130",
+        {
+          "AND": [
+            "PHYS 5L PHYS 5M",
+            "PHYS 5N",
+            "PHYS 6L PHYS 6M",
+            "PHYS 6N"
+          ]
+        },
+        "concurrent enrollment in ECE 130"
+      ]
+    }
+  },
+  "ECE 135": {
+    "name": "Electromagnetic Fields and Waves",
+    "credits": 5,
+    "label": "ECE",
+    "id": "135",
+    "prerequisites": {
+      "AND": [
+        "MATH 24",
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L"
+          ]
+        },
+        "MATH 23B",
+        {
+          "AND": [
+            "MATH 24",
+            "AM 20 Students must concurrently enroll in ECE 135L"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 135L": {
+    "name": "Electromagnetic Fields and Waves Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "135L",
+    "prerequisites": {
+      "AND": [
+        "MATH 24",
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L"
+          ]
+        },
+        "MATH 23B",
+        {
+          "AND": [
+            "MATH 24",
+            "AM 20 Students must concurrently enroll in ECE 135"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 136": {
+    "name": "Engineering Electromagnetics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "136",
+    "prerequisites": {
+      "AND": [
+        "ECE 135",
+        "ECE 135L Enrollment is restricted to School of Engineering",
+        "Division of Physical",
+        "Biological Sciences maj",
+        "s",
+        "permission of instruct"
+      ]
+    }
+  },
+  "ECE 141": {
+    "name": "Feedback Control Systems",
+    "credits": 5,
+    "label": "ECE",
+    "id": "141",
+    "prerequisites": {
+      "AND": [
+        "ECE 103",
+        "maj",
+        "s in the School of Engineering",
+        "Division of Physical",
+        "Biological Sciences programs with the exception of physics maj",
+        "s Prerequisites f",
+        "physics maj",
+        "s: PHYS 116A PHYS 116C",
+        "PHYS 133"
+      ]
+    }
+  },
+  "ECE 145": {
+    "name": "Estimation and Introduction to Control of Stochastic Processes",
+    "credits": 5,
+    "label": "ECE",
+    "id": "145",
+    "prerequisites": {}
+  },
+  "ECE 149": {
+    "name": "Introduction to Cyber-physical Systems",
+    "credits": 5,
+    "label": "ECE",
+    "id": "149",
+    "prerequisites": {
+      "AND": [
+        "ECE 100",
+        "ECE 100L",
+        "equivalent",
+        "ECE 13",
+        "CSE 13E",
+        "equivalent"
+      ]
+    }
+  },
+  "ECE 151": {
+    "name": "Communications Systems",
+    "credits": 5,
+    "label": "ECE",
+    "id": "151",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "ECE 103 ECE 101",
+            "ECE 101L"
+          ]
+        },
+        {
+          "AND": [
+            "CSE 107",
+            "STAT 131",
+            "probability the",
+            "y",
+            "random variables background Enrollment is restricted to School of Engineering",
+            "Physical",
+            "Biological Sciences maj",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 152": {
+    "name": "Introduction to Wireless Communications",
+    "credits": 5,
+    "label": "ECE",
+    "id": "152",
+    "prerequisites": {
+      "AND": [
+        "CSE 107",
+        "ECE 151",
+        "by consent of instruct",
+        "Enrollment is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "ECE 153": {
+    "name": "Digital Signal Processing",
+    "credits": 5,
+    "label": "ECE",
+    "id": "153",
+    "prerequisites": {
+      "AND": [
+        "ECE 103 Enrollment is restricted to School of Engineering",
+        "Division of Physical",
+        "Biological Sciences maj",
+        "s",
+        "permission of instruct"
+      ]
+    }
+  },
+  "ECE 157": {
+    "name": "RF Hardware Design",
+    "credits": 5,
+    "label": "ECE",
+    "id": "157",
+    "prerequisites": {
+      "AND": [
+        "ECE 157L",
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L ECE 103",
+            "ECE 171",
+            "ECE 174"
+          ]
+        },
+        {
+          "AND": [
+            "consent of instruct",
+            "Concurrent enrollment in ECE 157L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 157L": {
+    "name": "RF Hardware Design Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "157L",
+    "prerequisites": {
+      "AND": [
+        "ECE 157",
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L ECE 103",
+            "ECE 171",
+            "ECE 174"
+          ]
+        },
+        {
+          "AND": [
+            "consent of instruct",
+            "Concurrent enrollment in ECE 157 is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 163": {
+    "name": "Introduction to Small-Scale UAV Theory and Practice",
+    "credits": 7,
+    "label": "ECE",
+    "id": "163",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "ECE 141",
+            "ECE 241",
+            "ECE 242"
+          ]
+        },
+        {
+          "AND": [
+            "CSE 30",
+            "ECE 13",
+            "CSE 13E",
+            "CSE 13S ECE 121 ECE 167",
+            "ECE 145 recommended but not required Enrollment is restricted to sophom",
+            "es juni",
+            "s",
+            "seni",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 167": {
+    "name": "Sensing and Sensor Technologies",
+    "credits": 7,
+    "label": "ECE",
+    "id": "167",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "CSE 13E",
+            "ECE 13"
+          ]
+        },
+        {
+          "AND": [
+            "ECE 103",
+            "ECE 103L"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 170": {
+    "name": "Advanced Power Electronics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "170",
+    "prerequisites": {
+      "AND": [
+        "ECE 177",
+        "equivalent",
+        "instruct",
+        "approval Enrollment is restricted to seni",
+        "s"
+      ]
+    }
+  },
+  "ECE 171": {
+    "name": "Analog Electronics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "171",
+    "prerequisites": {
+      "AND": [
+        "ECE 171L",
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L"
+          ]
+        },
+        {
+          "AND": [
+            "previous",
+            "concurrent enrollment in ECE 171L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 171L": {
+    "name": "Analog Electronics Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "171L",
+    "prerequisites": {
+      "AND": [
+        "ECE 171",
+        {
+          "AND": [
+            "ECE 101",
+            "ECE 101L"
+          ]
+        },
+        {
+          "AND": [
+            "previous",
+            "concurrent enrollment in ECE 171 is required"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 172": {
+    "name": "Advanced Analog Circuits",
+    "credits": 5,
+    "label": "ECE",
+    "id": "172",
+    "prerequisites": "ECE 171"
+  },
+  "ECE 173": {
+    "name": "High-Speed Digital Design",
+    "credits": 7,
+    "label": "ECE",
+    "id": "173",
+    "prerequisites": {
+      "AND": [
+        "ECE 101",
+        "ECE 101L",
+        "ECE 174",
+        "by permission of the instruct",
+        "ECE 171",
+        "ECE 121 are recommended"
+      ]
+    }
+  },
+  "ECE 174": {
+    "name": "Introduction to EDA Tools for PCB Design",
+    "credits": 3,
+    "label": "ECE",
+    "id": "174",
+    "prerequisites": {
+      "AND": [
+        "ECE 101",
+        "ECE 101L",
+        "consent of instruct"
+      ]
+    }
+  },
+  "ECE 175": {
+    "name": "Energy Generation and Control",
+    "credits": 5,
+    "label": "ECE",
+    "id": "175",
+    "prerequisites": "ECE 101 Concurrent enrollment in ECE 175L is required"
+  },
+  "ECE 175L": {
+    "name": "Energy Generation and Control Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "175L",
+    "prerequisites": "ECE 101 Concurrent enrollment in ECE 175 is required"
+  },
+  "ECE 176": {
+    "name": "Energy Conservation and Control",
+    "credits": 5,
+    "label": "ECE",
+    "id": "176",
+    "prerequisites": {
+      "AND": [
+        "ECE 103",
+        "ECE 171 Concurrent enrollment in ECE 176L is required"
+      ]
+    }
+  },
+  "ECE 176L": {
+    "name": "Energy Conversion and Control Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "176L",
+    "prerequisites": {
+      "AND": [
+        "ECE 103",
+        "ECE 171 Concurrent enrollment in course 176 is required"
+      ]
+    }
+  },
+  "ECE 177": {
+    "name": "Power Electronics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "177",
+    "prerequisites": "ECE 103 Concurrent enrollment in ECE 177L is required"
+  },
+  "ECE 177L": {
+    "name": "Power Electronics Laboratory",
+    "credits": 2,
+    "label": "ECE",
+    "id": "177L",
+    "prerequisites": "ECE 103 Concurrent enrollment in ECE 177 is required"
+  },
+  "ECE 178": {
+    "name": "Device Electronics",
+    "credits": 5,
+    "label": "ECE",
+    "id": "178",
+    "prerequisites": {
+      "AND": [
+        "ECE 102",
+        "ECE 102L",
+        "ECE 171",
+        "ECE 171L Enrollment is restricted to School of Engineering",
+        "Division of Physical",
+        "Biological Sciences maj",
+        "s",
+        "permission of instruct"
+      ]
+    }
+  },
+  "ECE 179": {
+    "name": "Decision Analysis in Management",
+    "credits": 5,
+    "label": "ECE",
+    "id": "179",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "AM 30",
+            "MATH 22",
+            "MATH 23A"
+          ]
+        },
+        "ECON 113",
+        {
+          "AND": [
+            "ECON 100A",
+            "ECON 100M Enrollment is restricted to juni",
+            "s",
+            "seni",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "ECE 180J": {
+    "name": "Advanced Renewable Energy Sources, Storage, and Smart Grids",
+    "credits": 5,
+    "label": "ECE",
+    "id": "180J",
+    "prerequisites": {
+      "AND": [
+        "MATH 3",
+        "AM 3",
+        "AM 5",
+        "AM 7"
+      ]
+    }
+  },
+  "ECE 181J": {
+    "name": "Renewable Energy Sources in Practice",
+    "credits": 7,
+    "label": "ECE",
+    "id": "181J",
+    "prerequisites": {}
+  },
+  "ECE 183": {
+    "name": "Special Topics in Electrical Engineering",
+    "credits": 5,
+    "label": "ECE",
+    "id": "183",
+    "prerequisites": {}
+  },
+  "ECE 185": {
+    "name": "Introduction to the US Electricity Industry",
+    "credits": 5,
+    "label": "ECE",
+    "id": "185",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5C",
+        "PHYS 5N Enrollment is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "ECE 193": {
+    "name": "Field Study",
+    "credits": 5,
+    "label": "ECE",
+    "id": "193",
+    "prerequisites": {}
+  },
+  "ECE 193F": {
+    "name": "Field Study",
+    "credits": 2,
+    "label": "ECE",
+    "id": "193F",
+    "prerequisites": {}
+  },
+  "ECE 195": {
+    "name": "Senior Thesis Research",
+    "credits": 5,
+    "label": "ECE",
+    "id": "195",
+    "prerequisites": {}
+  },
+  "ECE 195F": {
+    "name": "Senior Thesis Research",
+    "credits": 2,
+    "label": "ECE",
+    "id": "195F",
+    "prerequisites": {}
+  },
+  "ECE 198": {
+    "name": "Individual Study or Research",
+    "credits": 5,
+    "label": "ECE",
+    "id": "198",
+    "prerequisites": {}
+  },
+  "ECE 198F": {
+    "name": "Independent Field Study",
+    "credits": 2,
+    "label": "ECE",
+    "id": "198F",
+    "prerequisites": {}
+  },
+  "ECE 199": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "ECE",
+    "id": "199",
+    "prerequisites": {}
+  },
+  "ECE 199F": {
+    "name": "Tutorial",
+    "credits": 2,
+    "label": "ECE",
+    "id": "199F",
+    "prerequisites": {}
+  }
+}

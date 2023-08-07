@@ -1,0 +1,338 @@
+{
+  "AM 3": {
+    "name": "Precalculus for the Social Sciences",
+    "credits": 5,
+    "label": "AM",
+    "id": "3",
+    "prerequisites": {
+      "AND": [
+        "sc",
+        "e of 200",
+        "higher on the  mathematics placement examination (MPE)",
+        "MATH 2"
+      ]
+    }
+  },
+  "AM 6": {
+    "name": "Precalculus for Statistics",
+    "credits": 5,
+    "label": "AM",
+    "id": "6",
+    "prerequisites": {
+      "AND": [
+        "MATH 2",
+        "mathematics placement examination (MPE) sc",
+        "e of 200",
+        "higher",
+        "higher"
+      ]
+    }
+  },
+  "AM 10": {
+    "name": "Mathematical Methods for Engineers I",
+    "credits": 5,
+    "label": "AM",
+    "id": "10",
+    "prerequisites": {
+      "AND": [
+        "sc",
+        "e of 400",
+        "higher on the  mathematics placement examination (MPE)",
+        "MATH 3"
+      ]
+    }
+  },
+  "AM 11A": {
+    "name": "Mathematical Methods for Economists I",
+    "credits": 5,
+    "label": "AM",
+    "id": "11A",
+    "prerequisites": {
+      "AND": [
+        "who have already taken MATH 11A",
+        "MATH 19A should not take this course Prerequisite(s): sc",
+        "e of 300",
+        "higher on the mathematics placement examination (MPE) AM 3",
+        "AM 6",
+        "MATH 3"
+      ]
+    }
+  },
+  "AM 11B": {
+    "name": "Mathematical Methods for Economists II",
+    "credits": 5,
+    "label": "AM",
+    "id": "11B",
+    "prerequisites": {
+      "AND": [
+        "AM 11A",
+        "ECON 11A",
+        "MATH 11A",
+        "MATH 19A"
+      ]
+    }
+  },
+  "AM 20": {
+    "name": "Mathematical Methods for Engineers II",
+    "credits": 5,
+    "label": "AM",
+    "id": "20",
+    "prerequisites": {
+      "AND": [
+        "MATH 19B",
+        "MATH 20B",
+        "AM 10",
+        "MATH 21"
+      ]
+    }
+  },
+  "AM 30": {
+    "name": "Multivariate Calculus for Engineers",
+    "credits": 5,
+    "label": "AM",
+    "id": "30",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "AM 10",
+            "MATH 21"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 19B",
+            "MATH 20B"
+          ]
+        }
+      ]
+    }
+  },
+  "AM 100": {
+    "name": "Mathematical Methods for Engineers",
+    "credits": 5,
+    "label": "AM",
+    "id": "100",
+    "prerequisites": {
+      "AND": [
+        "AM 20",
+        "MATH 24",
+        "AM 30",
+        "MATH 23B",
+        "by permission of instruct"
+      ]
+    }
+  },
+  "AM 107": {
+    "name": "Introduction to Fluid Dynamics",
+    "credits": 5,
+    "label": "AM",
+    "id": "107",
+    "prerequisites": {
+      "AND": [
+        "AM 112",
+        "MATH 107",
+        "PHYS 116C",
+        "EART 111"
+      ]
+    }
+  },
+  "AM 112": {
+    "name": "Introduction to Partial Differential Equations",
+    "credits": 5,
+    "label": "AM",
+    "id": "112",
+    "prerequisites": {
+      "AND": [
+        "AM 100",
+        "by permission of the instruct",
+        "Enrollment is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "AM 114": {
+    "name": "Introduction to Dynamical Systems",
+    "credits": 5,
+    "label": "AM",
+    "id": "114",
+    "prerequisites": {
+      "AND": [
+        "AM 20",
+        {
+          "AND": [
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116A Enrollment is restricted to sophom",
+            "es juni",
+            "s",
+            "seni",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "AM 115": {
+    "name": "Stochastic Modeling in Biology",
+    "credits": 5,
+    "label": "AM",
+    "id": "115",
+    "prerequisites": {
+      "AND": [
+        "WRIT 1",
+        {
+          "AND": [
+            "STAT 131",
+            "AM 20"
+          ]
+        },
+        {
+          "AND": [
+            "a university-level course in biology",
+            "operational knowledge of a programming language"
+          ]
+        },
+        "consent of instruct"
+      ]
+    }
+  },
+  "AM 129": {
+    "name": "Foundations of Scientific Computing for Scientists and Engineers",
+    "credits": 5,
+    "label": "AM",
+    "id": "129",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "AM 10",
+            "MATH 11A"
+          ]
+        },
+        {
+          "AND": [
+            "AM 10",
+            "MATH 19A"
+          ]
+        },
+        {
+          "AND": [
+            "AM 10",
+            "MATH 20A"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 21",
+            "MATH 11A"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 21",
+            "MATH 19A"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 21",
+            "MATH 20A"
+          ]
+        }
+      ]
+    }
+  },
+  "AM 147": {
+    "name": "Computational Methods and Applications",
+    "credits": 5,
+    "label": "AM",
+    "id": "147",
+    "prerequisites": {
+      "AND": [
+        "AM 10",
+        "MATH 21 Knowledge of differential equations (AM 20",
+        "MATH 24) is recommended"
+      ]
+    }
+  },
+  "AM 148": {
+    "name": "GPU Programming for Scientific Computations",
+    "credits": 5,
+    "label": "AM",
+    "id": "148",
+    "prerequisites": {
+      "AND": [
+        "AM 147",
+        "MATH 148",
+        "PHYS 115  Enrollment is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "AM 170A": {
+    "name": "Mathematical Modeling 1",
+    "credits": 5,
+    "label": "AM",
+    "id": "170A",
+    "prerequisites": {
+      "AND": [
+        "WRIT 1",
+        {
+          "AND": [
+            "Satisfaction of the Entry Level Writing",
+            "Composition requirements AM 30",
+            "AM 114",
+            "AM 214",
+            "STAT 131",
+            "CSE 107",
+            "by permission of the instruct",
+            "Enrollment is restricted to juni",
+            "s",
+            "seni",
+            "s"
+          ]
+        },
+        "graduate students may apply by permission of the instruct"
+      ]
+    }
+  },
+  "AM 170B": {
+    "name": "Mathematical Modeling 2",
+    "credits": 5,
+    "label": "AM",
+    "id": "170B",
+    "prerequisites": {
+      "AND": [
+        "AM 129",
+        "AM 209 AM 112",
+        "AM 147",
+        "AM 170A AM 170A may be taken concurrently with 170B on an exceptional basis by permission of the instruct",
+        "Enrollment is restricted to seni",
+        "s Graduate students may apply with permission of the instruct"
+      ]
+    }
+  },
+  "AM 198": {
+    "name": "Independent Study or Research",
+    "credits": 5,
+    "label": "AM",
+    "id": "198",
+    "prerequisites": {}
+  },
+  "AM 198F": {
+    "name": "Independent Study or Research",
+    "credits": 2,
+    "label": "AM",
+    "id": "198F",
+    "prerequisites": {}
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "PHYS 1A": {
+    "name": "Physics for Everyone",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "1A",
+    "prerequisites": {}
+  },
+  "PHYS 1B": {
+    "name": "Physics for Everyone",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "1B",
+    "prerequisites": {}
+  },
+  "PHYS 2": {
+    "name": "The Physicist's Toolbox",
+    "credits": 2,
+    "label": "PHYS",
+    "id": "2",
+    "prerequisites": {
+      "AND": [
+        "is restricted to first-year",
+        "second-year students"
+      ]
+    }
+  },
+  "PHYS 5A": {
+    "name": "Introduction to Physics I",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "5A",
+    "prerequisites": {
+      "AND": [
+        "MATH 19A",
+        "MATH 20A Concurrent enrollment in PHYS 5L",
+        "either MATH 19B",
+        "MATH 20B is required"
+      ]
+    }
+  },
+  "PHYS 5B": {
+    "name": "Introduction to Physics II",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "5B",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5M",
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L",
+            "MATH 19A",
+            "MATH 20A"
+          ]
+        },
+        {
+          "AND": [
+            "concurrent enrollment in PHYS 5M is required C",
+            "equisite: MATH 19B",
+            "MATH 20B"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 5C": {
+    "name": "Introduction to Physics III",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "5C",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5A",
+        "MATH 19B",
+        "MATH 20B Concurrent enrollment in PHYS 5N is required"
+      ]
+    }
+  },
+  "PHYS 5D": {
+    "name": "Introduction to Physics IV",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "5D",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L",
+            "PHYS 6A",
+            "PHYS 6L"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 5B",
+            "PHYS 6B"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 19B",
+            "MATH 20B"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 5L": {
+    "name": "Introduction to Physics I Laboratory",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "5L",
+    "prerequisites": "concurrent enrollment in PHYS 5A is required"
+  },
+  "PHYS 5M": {
+    "name": "Introduction to Physics II Laboratory",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "5M",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5B",
+        "PHYS 5L",
+        "concurrent enrollment in PHYS 5B is required"
+      ]
+    }
+  },
+  "PHYS 5N": {
+    "name": "Introduction to Physics Laboratory III",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "5N",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5A",
+        "PHYS 5L Concurrent enrollment in PHYS 5C is required"
+      ]
+    }
+  },
+  "PHYS 6A": {
+    "name": "Introductory Physics I",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "6A",
+    "prerequisites": {
+      "AND": [
+        "MATH 11A",
+        "MATH 19A",
+        "MATH 20A",
+        "AM 15A Concurrent enrollment in PHYS 6L is required"
+      ]
+    }
+  },
+  "PHYS 6B": {
+    "name": "Introductory Physics II",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "6B",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L",
+            "PHYS 6A",
+            "PHYS 6L"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 11B",
+            "MATH 19B",
+            "MATH 20B",
+            "AM 15B"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 6C": {
+    "name": "Introductory Physics III",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "6C",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5A",
+        "PHYS 5L",
+        "PHYS 6A",
+        "PHYS 6L",
+        "MATH 11B",
+        "MATH 19B",
+        "MATH 20B",
+        "AM 15B"
+      ]
+    }
+  },
+  "PHYS 6L": {
+    "name": "Introductory Physics I Laboratory",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "6L",
+    "prerequisites": {
+      "AND": [
+        "Previous",
+        "concurrent enrollment in PHYS 6A",
+        "PHYS 7A is required"
+      ]
+    }
+  },
+  "PHYS 6M": {
+    "name": "Introductory Physics II Laboratory",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "6M",
+    "prerequisites": {
+      "AND": [
+        "PHYS 6B",
+        {
+          "AND": [
+            "PHYS 5A PHYS 6A",
+            "PHYS 7A"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 5L PHYS 6L",
+            "PHYS 7L"
+          ]
+        },
+        {
+          "AND": [
+            "previous",
+            "concurrent enrollment in PHYS 6B"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 6N": {
+    "name": "Introductory Physics III Laboratory",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "6N",
+    "prerequisites": {
+      "AND": [
+        "PHYS 6C",
+        {
+          "AND": [
+            "PHYS 6A",
+            "PHYS 6L",
+            "PHYS 5A",
+            "PHYS 5L"
+          ]
+        },
+        {
+          "AND": [
+            "previous",
+            "concurrent enrollment in PHYS 6C"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 6B",
+            "PHYS 6M are recommended"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 7A": {
+    "name": "Elementary Physics I",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "7A",
+    "prerequisites": {
+      "AND": [
+        "MATH 11A",
+        "MATH 19A",
+        "MATH 20A",
+        "AM 15A Concurrent enrollment in PHYS 6L",
+        "PHYS 7L is required"
+      ]
+    }
+  },
+  "PHYS 7B": {
+    "name": "Elementary Physics II",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "7B",
+    "prerequisites": {
+      "AND": [
+        "PHYS 7A",
+        "MATH 11B",
+        "MATH 19B",
+        "MATH 20B",
+        "AM 15B"
+      ]
+    }
+  },
+  "PHYS 7L": {
+    "name": "Elementary Physics Laboratory",
+    "credits": 1,
+    "label": "PHYS",
+    "id": "7L",
+    "prerequisites": "Concurrent enrollment in PHYS 7A is required"
+  },
+  "PHYS 11": {
+    "name": "The Physicist in Industry",
+    "credits": 2,
+    "label": "PHYS",
+    "id": "11",
+    "prerequisites": {}
+  },
+  "PHYS 80A": {
+    "name": "Elementary Physics of Energy",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "80A",
+    "prerequisites": {}
+  },
+  "PHYS 80U": {
+    "name": "Physics and Psychophysics of Music",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "80U",
+    "prerequisites": {}
+  },
+  "PHYS 99": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "99",
+    "prerequisites": {}
+  },
+  "PHYS 102": {
+    "name": "Modern Physics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "102",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 5A PHYS 5L PHYS 5B PHYS 5M PHYS 5C PHYS 5N",
+            "PHYS 5D"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 6A PHYS 6L PHYS 6B PHYS 6M PHYS 6C PHYS 6N",
+            "PHYS 5D"
+          ]
+        },
+        "equivalent"
+      ]
+    }
+  },
+  "PHYS 105": {
+    "name": "Mechanics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "105",
+    "prerequisites": {
+      "AND": [
+        "ASTR 119",
+        {
+          "AND": [
+            "PHYS 5A",
+            "PHYS 5L"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21 plus MATH 24",
+            "AM 10 plus AM 20"
+          ]
+        },
+        {
+          "AND": [
+            "ASTR 119",
+            "CSE 20 Concurrent enrollment in PHYS 116C",
+            "MATH 107 is required"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 110A": {
+    "name": "Electricity, Magnetism, and Optics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "110A",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5C",
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116C",
+            "MATH 107"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 110B": {
+    "name": "Electricity, Magnetism, and Optics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "110B",
+    "prerequisites": {
+      "AND": [
+        "PHYS 110A",
+        {
+          "AND": [
+            "PHYS 116C",
+            "MATH 107"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 112": {
+    "name": "Thermodynamics and Statistical Mechanics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "112",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5D",
+        "MATH 23B Concurrent enrollment in PHYS 102 is required"
+      ]
+    }
+  },
+  "PHYS 115": {
+    "name": "Computational Physics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "115",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 102",
+            "PHYS 105"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116C",
+            "MATH 107",
+            "equivalent Basic programming experience in Python",
+            "similar language"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 116A": {
+    "name": "Mathematical Methods in Physics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "116A",
+    "prerequisites": "MATH 23A"
+  },
+  "PHYS 116C": {
+    "name": "Mathematical Methods in Physics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "116C",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 23A",
+            "MATH 23B"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 116D": {
+    "name": "Mathematical Methods in Physics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "116D",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        "PHYS 116C"
+      ]
+    }
+  },
+  "PHYS 120": {
+    "name": "Polymer Physics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "120",
+    "prerequisites": "PHYS 112"
+  },
+  "PHYS 129": {
+    "name": "Particle Physics and Astrophysics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "129",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 5D PHYS 102",
+            "MATH 23B"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21 Students with equivalent coursew",
+            "k may contact instruct",
+            "f",
+            "permission to enroll"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 130": {
+    "name": "Multiwavelength Astronomical Techniques",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "130",
+    "prerequisites": {
+      "AND": [
+        "PHYS 102",
+        "PHYS 133",
+        {
+          "AND": [
+            "either ASTR 19",
+            "ASTR 119",
+            "CSE 20"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 133": {
+    "name": "Intermediate Laboratory",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "133",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5C",
+        "PHYS 5D",
+        "one from CSE 5J",
+        "CSE 14",
+        "CSE 20",
+        "ASTR 119",
+        "by permission of the instruct",
+        "Enrollment is restricted to physics applied physics physics (astrophysics)",
+        "science education maj",
+        "s",
+        "physics min",
+        "s"
+      ]
+    }
+  },
+  "PHYS 134": {
+    "name": "Physics Advanced Laboratory",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "134",
+    "prerequisites": {
+      "AND": [
+        "PHYS 133",
+        "PHYS 102"
+      ]
+    }
+  },
+  "PHYS 135": {
+    "name": "Astrophysics Advanced Laboratory",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "135",
+    "prerequisites": {
+      "AND": [
+        "PHYS 133",
+        "at least one astronomy course Enrollment is restricted to physics (astrophysics) maj",
+        "s Intended primarily f",
+        "juni",
+        "s",
+        "seni",
+        "s maj",
+        "ing",
+        "min",
+        "ing in astrophysics"
+      ]
+    }
+  },
+  "PHYS 135A": {
+    "name": "Astrophysics Advanced Laboratory",
+    "credits": 3,
+    "label": "PHYS",
+    "id": "135A",
+    "prerequisites": {
+      "AND": [
+        "PHYS 133",
+        "at least one astronomy course Enrollment is restricted to physics (astrophysics) maj",
+        "s"
+      ]
+    }
+  },
+  "PHYS 135B": {
+    "name": "Astrophysics Advanced  Laboratory",
+    "credits": 2,
+    "label": "PHYS",
+    "id": "135B",
+    "prerequisites": {
+      "AND": [
+        "PHYS 135A Enrollment is restricted to physics (astrophysics) maj",
+        "s"
+      ]
+    }
+  },
+  "PHYS 137": {
+    "name": "Advanced Optics Laboratory",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "137",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 102",
+            "ECE 102"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 133",
+            "by permission of instruct"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 138": {
+    "name": "Quantum Information Science Laboratory",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "138",
+    "prerequisites": {
+      "AND": [
+        "PHYS 102",
+        "PHYS 133",
+        "permission of the instruct",
+        "Enrollment is restricted to physics BS maj",
+        "s"
+      ]
+    }
+  },
+  "PHYS 139A": {
+    "name": "Quantum Mechanics I",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "139A",
+    "prerequisites": {
+      "AND": [
+        "PHYS 102",
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116C",
+            "MATH 107"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 139B": {
+    "name": "Quantum Mechanics II",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "139B",
+    "prerequisites": {
+      "AND": [
+        "PHYS 102",
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116C",
+            "MATH 107"
+          ]
+        },
+        "PHYS 139A"
+      ]
+    }
+  },
+  "PHYS 150": {
+    "name": "Quantum Computing",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "150",
+    "prerequisites": {
+      "AND": [
+        "116A",
+        "MATH 21",
+        "AM 10 Enrollment is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "PHYS 152": {
+    "name": "Physics and Machine Learning",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "152",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 105",
+            "PHYS 112"
+          ]
+        },
+        {
+          "AND": [
+            "CSE 20",
+            "ASTR 119",
+            "PHYS 115",
+            "pri",
+            "programming experience with permission of instruct"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 156": {
+    "name": "Applications of Quantum Materials",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "156",
+    "prerequisites": {
+      "AND": [
+        "PHYS 102",
+        "CHEM 163A"
+      ]
+    }
+  },
+  "PHYS 157": {
+    "name": "Frontier of Quantum Materials",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "157",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 112",
+            "PHYS 139A"
+          ]
+        },
+        {
+          "AND": [
+            "students with equivalent coursew",
+            "k may contact instruct",
+            "f",
+            "permission to enroll"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 160": {
+    "name": "Practical Electronics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "160",
+    "prerequisites": {
+      "AND": [
+        "PHYS 5C",
+        "PHYS 5N",
+        "PHYS 6C",
+        "PHYS 6N"
+      ]
+    }
+  },
+  "PHYS 171": {
+    "name": "General Relativity, Black Holes, and Cosmology",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "171",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "PHYS 105 PHYS 110A",
+            "PHYS 110B"
+          ]
+        },
+        {
+          "AND": [
+            "PHYS 116A",
+            "MATH 21",
+            "MATH 24"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 180": {
+    "name": "Biophysics",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "180",
+    "prerequisites": {
+      "AND": [
+        "PHYS 112",
+        {
+          "AND": [
+            "students who have a biochemistry background may contact instruct",
+            "f",
+            "permission Restricted to juni",
+            "s",
+            "seni",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 182": {
+    "name": "Scientific Communication for Physicists",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "182",
+    "prerequisites": {
+      "AND": [
+        "PHYS 133",
+        "satisfaction of the Entry Level Writing",
+        "Composition requirements Enrollment is restricted to juni",
+        "seni",
+        "maj",
+        "s in physics astrophysics applied physics",
+        "physics education"
+      ]
+    }
+  },
+  "PHYS 191": {
+    "name": "Teaching Practicum",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "191",
+    "prerequisites": {}
+  },
+  "PHYS 192": {
+    "name": "Directed Student Teaching",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "192",
+    "prerequisites": {}
+  },
+  "PHYS 195A": {
+    "name": "Senior Thesis I",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "195A",
+    "prerequisites": {}
+  },
+  "PHYS 195B": {
+    "name": "Senior Thesis II",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "195B",
+    "prerequisites": {}
+  },
+  "PHYS 199": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "PHYS",
+    "id": "199",
+    "prerequisites": {}
+  },
+  "PHYS 199F": {
+    "name": "Tutorial",
+    "credits": 2,
+    "label": "PHYS",
+    "id": "199F",
+    "prerequisites": {}
+  }
+}

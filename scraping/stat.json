@@ -1,0 +1,160 @@
+{
+  "STAT 5": {
+    "name": "Statistics",
+    "credits": 5,
+    "label": "STAT",
+    "id": "5",
+    "prerequisites": {
+      "AND": [
+        "Students cannot enroll in STAT 5 after receiving a C",
+        "better in STAT 7"
+      ]
+    }
+  },
+  "STAT 7": {
+    "name": "Statistical Methods for the Biological, Environmental, and Health Sciences",
+    "credits": 5,
+    "label": "STAT",
+    "id": "7",
+    "prerequisites": {
+      "AND": [
+        "sc",
+        "e of 300",
+        "higher on the mathematics placement examination (MPE)",
+        "AM 3",
+        "AM 6",
+        "AM 11A",
+        "AM 15A",
+        "MATH 3",
+        "MATH 11A",
+        "MATH 19A Concurrent enrollment in STAT 7L is required"
+      ]
+    }
+  },
+  "STAT 7L": {
+    "name": "Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory",
+    "credits": 2,
+    "label": "STAT",
+    "id": "7L",
+    "prerequisites": {
+      "AND": [
+        "sc",
+        "e of 300",
+        "higher on the mathematics placement examination (MPE) AM 3",
+        "AM 6",
+        "AM 11A",
+        "AM 15A",
+        "MATH 3",
+        "MATH 11A",
+        "MATH 19A  Concurrent enrollment in STAT 7 is required"
+      ]
+    }
+  },
+  "STAT 17": {
+    "name": "Statistical Methods for Business and Economics",
+    "credits": 5,
+    "label": "STAT",
+    "id": "17",
+    "prerequisites": {
+      "AND": [
+        "A sc",
+        "e of 300",
+        "higher on the mathematics placement examination (MPE)",
+        "completion of AM 3",
+        "AM 11A",
+        "MATH 3",
+        "MATH 11A",
+        "MATH 19A Concurrent enrollment in STAT 17L is required"
+      ]
+    }
+  },
+  "STAT 17L": {
+    "name": "Statistical Methods for Business and Economics Laboratory",
+    "credits": 2,
+    "label": "STAT",
+    "id": "17L",
+    "prerequisites": {
+      "AND": [
+        "A sc",
+        "e of 300",
+        "higher on (MPE)",
+        "completion of AM 3",
+        "AM 11A",
+        "MATH 3",
+        "MATH 11A",
+        "MATH 19A Concurrent enrollment in STAT 17 is required Declared",
+        "proposed maj",
+        "s in one of the economics programs who are transferring in a course equivalent to STAT 17 should contact the Economics Department to petition f",
+        "an exception to the concurrent enrollment requirement"
+      ]
+    }
+  },
+  "STAT 80A": {
+    "name": "Gambling and Gaming",
+    "credits": 5,
+    "label": "STAT",
+    "id": "80A",
+    "prerequisites": {}
+  },
+  "STAT 80B": {
+    "name": "Data Visualization",
+    "credits": 5,
+    "label": "STAT",
+    "id": "80B",
+    "prerequisites": {}
+  },
+  "STAT 108": {
+    "name": "Linear Regression",
+    "credits": 5,
+    "label": "STAT",
+    "id": "108",
+    "prerequisites": {
+      "AND": [
+        "STAT 132",
+        "satisfaction of the Entry Level Writing",
+        "Composition requirements"
+      ]
+    }
+  },
+  "STAT 131": {
+    "name": "Introduction to Probability Theory",
+    "credits": 5,
+    "label": "STAT",
+    "id": "131",
+    "prerequisites": {
+      "AND": [
+        "AM 11B",
+        "ECON 11B",
+        "MATH 11B",
+        "MATH 19B",
+        "MATH 20B"
+      ]
+    }
+  },
+  "STAT 132": {
+    "name": "Classical and Bayesian Inference",
+    "credits": 5,
+    "label": "STAT",
+    "id": "132",
+    "prerequisites": {
+      "AND": [
+        "STAT 131",
+        "CSE 107"
+      ]
+    }
+  },
+  "STAT 198": {
+    "name": "Independent Study or Research",
+    "credits": 5,
+    "label": "STAT",
+    "id": "198",
+    "prerequisites": {}
+  },
+  "STAT 198F": {
+    "name": "Independent Study or Research",
+    "credits": 2,
+    "label": "STAT",
+    "id": "198F",
+    "prerequisites": {}
+  }
+}

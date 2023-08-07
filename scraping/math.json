@@ -1,0 +1,913 @@
+{
+  "MATH 2": {
+    "name": "College Algebra for Calculus",
+    "credits": 5,
+    "label": "MATH",
+    "id": "2",
+    "prerequisites": {
+      "AND": [
+        "mathematics placement (MP) sc",
+        "e of 100",
+        "higher Students may not enroll in",
+        "receive credit f",
+        "MATH 2 after receiving credit with a 'C'",
+        "better in AM 3 MATH 3 AM 11A MATH 11A MATH 19A MATH 20A",
+        "equivalents"
+      ]
+    }
+  },
+  "MATH 2S": {
+    "name": "College Algebra for Calculus",
+    "credits": 2,
+    "label": "MATH",
+    "id": "2S",
+    "prerequisites": {
+      "AND": [
+        "mathematics placement (MP) sc",
+        "e of 100",
+        "higher"
+      ]
+    }
+  },
+  "MATH 2T": {
+    "name": "Preparatory Math: Tutorial",
+    "credits": 2,
+    "label": "MATH",
+    "id": "2T",
+    "prerequisites": {
+      "AND": [
+        "mathematics placement (MP) sc",
+        "e of 100",
+        "higher"
+      ]
+    }
+  },
+  "MATH 3": {
+    "name": "Precalculus",
+    "credits": 5,
+    "label": "MATH",
+    "id": "3",
+    "prerequisites": {
+      "AND": [
+        "MATH 2",
+        "mathematics placement (MP) sc",
+        "e of 200",
+        "higher Students may not enroll in",
+        "receive credit f",
+        "MATH 3 after receiving credit with a 'C'",
+        "better in AM 11A MATH 11A MATH 19A MATH 20A",
+        "equivalents"
+      ]
+    }
+  },
+  "MATH 4": {
+    "name": "Mathematics of Choice and Argument",
+    "credits": 5,
+    "label": "MATH",
+    "id": "4",
+    "prerequisites": {
+      "AND": [
+        "MATH 2",
+        "mathematics placement (MP) sc",
+        "e of 200",
+        "higher",
+        "AP Calculus AB examination sc",
+        "e of 3",
+        "higher"
+      ]
+    }
+  },
+  "MATH 11A": {
+    "name": "Calculus with Applications",
+    "credits": 5,
+    "label": "MATH",
+    "id": "11A",
+    "prerequisites": {
+      "AND": [
+        {
+          "MPE": 300
+        },
+        {
+          "AND": [
+            "MATH 3",
+            "AM 3"
+          ]
+        },
+        {
+          "AND": [
+            "mathematics placement (MP) sc",
+            "e of 300",
+            "higher"
+          ]
+        },
+        {
+          "AND": [
+            "AP Calculus AB exam sc",
+            "e of 3",
+            "higher"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 11B": {
+    "name": "Calculus with Applications",
+    "credits": 5,
+    "label": "MATH",
+    "id": "11B",
+    "prerequisites": {
+      "AND": [
+        "MATH 11A",
+        "MATH 19A",
+        "AM 15A",
+        "AP Calculus AB exam sc",
+        "e of 4",
+        "5",
+        "BC exam sc",
+        "e of 3",
+        "higher",
+        "IB Mathematics Higher Level exam sc",
+        "e of 5",
+        "higher"
+      ]
+    }
+  },
+  "MATH 19A": {
+    "name": "Calculus for Science, Engineering, and Mathematics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "19A",
+    "prerequisites": {
+      "AND": [
+        {
+          "MPE": 400
+        },
+        "MATH 3",
+        {
+          "AND": [
+            "mathematics placement (MP) sc",
+            "e of 400",
+            "higher"
+          ]
+        },
+        {
+          "AND": [
+            "AP Calculus AB exam sc",
+            "e of 3",
+            "higher"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 19B": {
+    "name": "Calculus for Science, Engineering, and Mathematics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "19B",
+    "prerequisites": {
+      "AND": [
+        "MATH 19A",
+        "MATH 20A",
+        "AP Calculus AB exam sc",
+        "e of 4",
+        "5",
+        "BC exam sc",
+        "e of 3",
+        "higher",
+        "IB Mathematics Higher Level exam sc",
+        "e of 5 of higher"
+      ]
+    }
+  },
+  "MATH 20A": {
+    "name": "Honors Calculus",
+    "credits": 5,
+    "label": "MATH",
+    "id": "20A",
+    "prerequisites": {
+      "AND": [
+        {
+          "MPE": 500
+        },
+        "WRIT 1",
+        {
+          "AND": [
+            "mathematics placement (MP) sc",
+            "e of 500 higher"
+          ]
+        },
+        {
+          "AND": [
+            "AP Calculus AB examination sc",
+            "e of 4",
+            "5"
+          ]
+        },
+        {
+          "AND": [
+            "BC examination of 3",
+            "higher"
+          ]
+        },
+        {
+          "AND": [
+            "IB Mathematics Higher Level examination sc",
+            "e of 5",
+            "higher"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 20B": {
+    "name": "Honors Calculus",
+    "credits": 5,
+    "label": "MATH",
+    "id": "20B",
+    "prerequisites": "MATH 20A"
+  },
+  "MATH 21": {
+    "name": "Linear Algebra",
+    "credits": 5,
+    "label": "MATH",
+    "id": "21",
+    "prerequisites": {
+      "AND": [
+        "MATH 11A",
+        "MATH 19A",
+        "MATH 20A",
+        "AM 11A",
+        "AM 15A"
+      ]
+    }
+  },
+  "MATH 22": {
+    "name": "Introduction to Calculus of Several Variables",
+    "credits": 5,
+    "label": "MATH",
+    "id": "22",
+    "prerequisites": {
+      "AND": [
+        "MATH 11B",
+        "MATH 19B",
+        "MATH 20B",
+        "AM 15B",
+        "AP calculus BC exam sc",
+        "e of 4",
+        "5"
+      ]
+    }
+  },
+  "MATH 23A": {
+    "name": "Vector Calculus",
+    "credits": 5,
+    "label": "MATH",
+    "id": "23A",
+    "prerequisites": {
+      "AND": [
+        "MATH 19B",
+        "MATH 20B",
+        "AP calculus BC exam sc",
+        "e of 4",
+        "5"
+      ]
+    }
+  },
+  "MATH 23B": {
+    "name": "Vector Calculus",
+    "credits": 5,
+    "label": "MATH",
+    "id": "23B",
+    "prerequisites": "MATH 23A"
+  },
+  "MATH 24": {
+    "name": "Ordinary Differential Equations",
+    "credits": 5,
+    "label": "MATH",
+    "id": "24",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 22",
+            "MATH 23A"
+          ]
+        },
+        "MATH 21 is recommended as preparation"
+      ]
+    }
+  },
+  "MATH 99": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "MATH",
+    "id": "99",
+    "prerequisites": {}
+  },
+  "MATH 99F": {
+    "name": "Tutorial",
+    "credits": 2,
+    "label": "MATH",
+    "id": "99F",
+    "prerequisites": {}
+  },
+  "MATH 100": {
+    "name": "Introduction to Proof and Problem Solving",
+    "credits": 5,
+    "label": "MATH",
+    "id": "100",
+    "prerequisites": {
+      "AND": [
+        "WRIT 1",
+        {
+          "AND": [
+            "satisfaction of the Entry Level Writing",
+            "Composition requirements"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 11A",
+            "MATH 19A",
+            "MATH 20A"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 21",
+            "AM 10",
+            "AMS 10A"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 101": {
+    "name": "Mathematical Problem Solving",
+    "credits": 5,
+    "label": "MATH",
+    "id": "101",
+    "prerequisites": {
+      "AND": [
+        "MATH 21",
+        "MATH 100"
+      ]
+    }
+  },
+  "MATH 103A": {
+    "name": "Complex Analysis",
+    "credits": 5,
+    "label": "MATH",
+    "id": "103A",
+    "prerequisites": {
+      "AND": [
+        "MATH 23B",
+        {
+          "AND": [
+            "either MATH 100",
+            "CSE 101"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 103B": {
+    "name": "Complex Analysis II",
+    "credits": 2,
+    "label": "MATH",
+    "id": "103B",
+    "prerequisites": "MATH 103A"
+  },
+  "MATH 105A": {
+    "name": "Real Analysis",
+    "credits": 5,
+    "label": "MATH",
+    "id": "105A",
+    "prerequisites": {
+      "AND": [
+        "22",
+        "MATH 23B",
+        "either MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 105B": {
+    "name": "Real Analysis",
+    "credits": 5,
+    "label": "MATH",
+    "id": "105B",
+    "prerequisites": "MATH 105A"
+  },
+  "MATH 105C": {
+    "name": "Real Analysis",
+    "credits": 5,
+    "label": "MATH",
+    "id": "105C",
+    "prerequisites": "MATH 105B"
+  },
+  "MATH 106": {
+    "name": "Systems of Ordinary Differential Equations",
+    "credits": 5,
+    "label": "MATH",
+    "id": "106",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 21",
+            "AM 10"
+          ]
+        },
+        {
+          "AND": [
+            "either MATH 24",
+            "AM 20"
+          ]
+        },
+        {
+          "AND": [
+            "either MATH 100",
+            "CSE 101"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 107": {
+    "name": "Partial Differential Equations",
+    "credits": 5,
+    "label": "MATH",
+    "id": "107",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 21",
+            "AM 10"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 24",
+            "AM 20"
+          ]
+        },
+        {
+          "AND": [
+            "either MATH 100",
+            "CSE 101"
+          ]
+        },
+        "MATH 106 is recommended as preparation"
+      ]
+    }
+  },
+  "MATH 110": {
+    "name": "Introduction to Number Theory",
+    "credits": 5,
+    "label": "MATH",
+    "id": "110",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 111A": {
+    "name": "Algebra",
+    "credits": 5,
+    "label": "MATH",
+    "id": "111A",
+    "prerequisites": {
+      "AND": [
+        "MATH 21",
+        "AM 10",
+        "either MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 111B": {
+    "name": "Algebra",
+    "credits": 5,
+    "label": "MATH",
+    "id": "111B",
+    "prerequisites": "MATH 111A"
+  },
+  "MATH 111T": {
+    "name": "Algebra",
+    "credits": 5,
+    "label": "MATH",
+    "id": "111T",
+    "prerequisites": "MATH 100"
+  },
+  "MATH 114": {
+    "name": "Introduction to Financial Mathematics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "114",
+    "prerequisites": {
+      "AND": [
+        "STAT 131",
+        "CSE 107"
+      ]
+    }
+  },
+  "MATH 115": {
+    "name": "Graph Theory",
+    "credits": 5,
+    "label": "MATH",
+    "id": "115",
+    "prerequisites": {
+      "AND": [
+        "MATH 21",
+        "AM 10",
+        "either MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 116": {
+    "name": "Combinatorics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "116",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        "CSE 101 Enrollment is restricted to sophom",
+        "es juni",
+        "s",
+        "seni",
+        "s Familiarity with basic group the",
+        "y is recommended"
+      ]
+    }
+  },
+  "MATH 117": {
+    "name": "Advanced Linear Algebra",
+    "credits": 5,
+    "label": "MATH",
+    "id": "117",
+    "prerequisites": {
+      "AND": [
+        "MATH 21",
+        "AM 10",
+        "either MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 118": {
+    "name": "Advanced Number Theory",
+    "credits": 5,
+    "label": "MATH",
+    "id": "118",
+    "prerequisites": {
+      "AND": [
+        "MATH 110",
+        "MATH 111A"
+      ]
+    }
+  },
+  "MATH 120": {
+    "name": "Coding Theory",
+    "credits": 5,
+    "label": "MATH",
+    "id": "120",
+    "prerequisites": "MATH  21"
+  },
+  "MATH 121A": {
+    "name": "Differential Geometry",
+    "credits": 5,
+    "label": "MATH",
+    "id": "121A",
+    "prerequisites": {
+      "AND": [
+        "MATH  21",
+        "MATH 23B",
+        "either MATH 100",
+        "CSE 101 MATH 105A strongly recommended"
+      ]
+    }
+  },
+  "MATH 121B": {
+    "name": "Differential Geometry and Topology",
+    "credits": 5,
+    "label": "MATH",
+    "id": "121B",
+    "prerequisites": "MATH 121A"
+  },
+  "MATH 124": {
+    "name": "Introduction to Topology",
+    "credits": 5,
+    "label": "MATH",
+    "id": "124",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        "MATH 111A recommended"
+      ]
+    }
+  },
+  "MATH 125": {
+    "name": "Applied Topology",
+    "credits": 5,
+    "label": "MATH",
+    "id": "125",
+    "prerequisites": "Math 117"
+  },
+  "MATH 128A": {
+    "name": "Classical Geometry: Euclidean and Non-Euclidean",
+    "credits": 5,
+    "label": "MATH",
+    "id": "128A",
+    "prerequisites": {
+      "AND": [
+        "either MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 128B": {
+    "name": "Classical Geometry: Projective",
+    "credits": 5,
+    "label": "MATH",
+    "id": "128B",
+    "prerequisites": "MATH 21"
+  },
+  "MATH 129": {
+    "name": "Algebraic Geometry",
+    "credits": 5,
+    "label": "MATH",
+    "id": "129",
+    "prerequisites": {
+      "AND": [
+        "MATH 21",
+        "MATH 100"
+      ]
+    }
+  },
+  "MATH 130": {
+    "name": "Celestial Mechanics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "130",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 19A",
+            "19B"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 23A",
+            "PHYS 5A",
+            "PHYS 6A"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 21",
+            "MATH 24 strongly recommended"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 134": {
+    "name": "Cryptography",
+    "credits": 5,
+    "label": "MATH",
+    "id": "134",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 100",
+            "CSE 101"
+          ]
+        },
+        "MATH 110 is recommended as preparation"
+      ]
+    }
+  },
+  "MATH 140": {
+    "name": "Industrial Mathematics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "140",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 145": {
+    "name": "Introductory Chaos Theory",
+    "credits": 5,
+    "label": "MATH",
+    "id": "145",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        {
+          "AND": [
+            "MATH 22",
+            "MATH 23A"
+          ]
+        },
+        "MATH 21",
+        {
+          "AND": [
+            "MATH 100",
+            "CSE 101 Concurrent enrollment in MATH 145L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 145L": {
+    "name": "Introductory Chaos Laboratory",
+    "credits": 1,
+    "label": "MATH",
+    "id": "145L",
+    "prerequisites": "enrollment in MATH 145 is required"
+  },
+  "MATH 148": {
+    "name": "Numerical Analysis",
+    "credits": 5,
+    "label": "MATH",
+    "id": "148",
+    "prerequisites": {
+      "AND": [
+        "MATH 103A",
+        {
+          "AND": [
+            "MATH 22",
+            "MATH 23A"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 21",
+            "AM 10"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 24",
+            "AM 20"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 103A",
+            "MATH 105A",
+            "MATH 152",
+            "AM 147",
+            "CSE 101 Concurrent enrollment in MATH 148L is required"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 148L": {
+    "name": "Numerical Analysis Laboratory",
+    "credits": 1,
+    "label": "MATH",
+    "id": "148L",
+    "prerequisites": "enrollment in MATH 148 is required"
+  },
+  "MATH 152": {
+    "name": "Programming for Mathematics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "152",
+    "prerequisites": "MATH 100"
+  },
+  "MATH 160": {
+    "name": "Mathematical Logic I",
+    "credits": 5,
+    "label": "MATH",
+    "id": "160",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        "CSE 101"
+      ]
+    }
+  },
+  "MATH 161": {
+    "name": "Mathematical Logic II",
+    "credits": 5,
+    "label": "MATH",
+    "id": "161",
+    "prerequisites": {
+      "AND": [
+        "MATH 100",
+        "equivalent",
+        "by permission of instruct"
+      ]
+    }
+  },
+  "MATH 162": {
+    "name": "Introduction to Computably Enumerable Functions and Sets and their Degrees",
+    "credits": 5,
+    "label": "MATH",
+    "id": "162",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "MATH 100",
+            "CSE 101"
+          ]
+        },
+        "MATH 160 recommended"
+      ]
+    }
+  },
+  "MATH 181": {
+    "name": "History of Mathematics",
+    "credits": 5,
+    "label": "MATH",
+    "id": "181",
+    "prerequisites": {
+      "AND": [
+        "MATH 19B",
+        "MATH 20B MATH 100 is strongly recommended f",
+        "preparation"
+      ]
+    }
+  },
+  "MATH 192": {
+    "name": "Dir Stu Teach",
+    "credits": 5,
+    "label": "MATH",
+    "id": "192",
+    "prerequisites": {}
+  },
+  "MATH 194": {
+    "name": "Senior Seminar",
+    "credits": 5,
+    "label": "MATH",
+    "id": "194",
+    "prerequisites": {
+      "AND": [
+        "WRIT 1",
+        {
+          "AND": [
+            "satisfaction of the Entry Level Writing",
+            "Composition requirements"
+          ]
+        },
+        {
+          "AND": [
+            "MATH 103A",
+            "MATH 105A",
+            "MATH 110",
+            "MATH 111A",
+            "MATH 111T",
+            "MATH 117 Enrollment pri",
+            "ity is given to seni",
+            "s"
+          ]
+        },
+        {
+          "AND": [
+            "juni",
+            "s may request permission from the undergraduate vice chair"
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 195": {
+    "name": "Senior Thesis",
+    "credits": 5,
+    "label": "MATH",
+    "id": "195",
+    "prerequisites": {}
+  },
+  "MATH 199": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "MATH",
+    "id": "199",
+    "prerequisites": {}
+  },
+  "MATH 199F": {
+    "name": "Tutorial",
+    "credits": 2,
+    "label": "MATH",
+    "id": "199F",
+    "prerequisites": {}
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "CMPM 15": {
+    "name": "Research Explorations",
+    "credits": 1,
+    "label": "CMPM",
+    "id": "15",
+    "prerequisites": {}
+  },
+  "CMPM 17": {
+    "name": "Design Build Experience",
+    "credits": 3,
+    "label": "CMPM",
+    "id": "17",
+    "prerequisites": {}
+  },
+  "CMPM 25": {
+    "name": "Introduction to 3D Modeling",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "25",
+    "prerequisites": {}
+  },
+  "CMPM 26": {
+    "name": "Introduction to 3D Animation",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "26",
+    "prerequisites": "CMPM 25"
+  },
+  "CMPM 27": {
+    "name": "Fundamentals of Substance Designer and Painter",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "27",
+    "prerequisites": {
+      "AND": [
+        "CMPM 25",
+        "by permission of the instruct"
+      ]
+    }
+  },
+  "CMPM 35": {
+    "name": "Data Structures for Interactive Media",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "35",
+    "prerequisites": "CSE 30"
+  },
+  "CMPM 80A": {
+    "name": "Accessible Games",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "80A",
+    "prerequisites": {}
+  },
+  "CMPM 80H": {
+    "name": "Human-Centered AI",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "80H",
+    "prerequisites": {}
+  },
+  "CMPM 80I": {
+    "name": "Introduction to Human Computer Interaction",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "80I",
+    "prerequisites": {}
+  },
+  "CMPM 80J": {
+    "name": "Games as Technical Culture",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "80J",
+    "prerequisites": {
+      "AND": [
+        "Satisfaction of the Entry Level Writing",
+        "Composition requirements"
+      ]
+    }
+  },
+  "CMPM 80K": {
+    "name": "Foundations of Video Game Design",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "80K",
+    "prerequisites": {}
+  },
+  "CMPM 80L": {
+    "name": "Entrepreneurial Organization and Leadership",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "80L",
+    "prerequisites": {}
+  },
+  "CMPM 94": {
+    "name": "Group Tutorial",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "94",
+    "prerequisites": {}
+  },
+  "CMPM 94F": {
+    "name": "Group Tutorial",
+    "credits": 2,
+    "label": "CMPM",
+    "id": "94F",
+    "prerequisites": {}
+  },
+  "CMPM 110": {
+    "name": "Writing for Game Technologies",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "110",
+    "prerequisites": {
+      "AND": [
+        "CMPM 120",
+        "by permission of the instruct"
+      ]
+    }
+  },
+  "CMPM 115": {
+    "name": "Lead by Design: Experiential Learning Collaborative",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "115",
+    "prerequisites": {
+      "AND": [
+        "is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "CMPM 118": {
+    "name": "Collaborative Research Experience in Engineering",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "118",
+    "prerequisites": {}
+  },
+  "CMPM 120": {
+    "name": "Game Development Experience",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "120",
+    "prerequisites": {
+      "AND": [
+        "CMPM 80K",
+        "FILM 80V",
+        {
+          "AND": [
+            "CSE 30",
+            "CMPM 35"
+          ]
+        }
+      ]
+    }
+  },
+  "CMPM 121": {
+    "name": "Game Development Patterns",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "121",
+    "prerequisites": "CMPM 120"
+  },
+  "CMPM 122": {
+    "name": "Business of Games",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "122",
+    "prerequisites": {}
+  },
+  "CMPM 123": {
+    "name": "Advanced Programming",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "123",
+    "prerequisites": {
+      "AND": [
+        "CSE 101",
+        "CMPM 35"
+      ]
+    }
+  },
+  "CMPM 125": {
+    "name": "Game Technologies",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "125",
+    "prerequisites": "CMPM 120"
+  },
+  "CMPM 130": {
+    "name": "User Interface and User Experience Design",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "130",
+    "prerequisites": {
+      "AND": [
+        "satisfaction of the Entry Level Writing",
+        "Composition requirements Enrollment is restricted to computer science: computer game design maj",
+        "s"
+      ]
+    }
+  },
+  "CMPM 131": {
+    "name": "User Experience for Interactive Media",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "131",
+    "prerequisites": {
+      "AND": [
+        "is restricted to juni",
+        "s seni",
+        "s",
+        "graduate students"
+      ]
+    }
+  },
+  "CMPM 132": {
+    "name": "Interaction\u00a0Design\u00a0Studio",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "132",
+    "prerequisites": {
+      "AND": [
+        "is restricted to juni",
+        "s seni",
+        "s",
+        "graduate students"
+      ]
+    }
+  },
+  "CMPM 146": {
+    "name": "Game AI",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "146",
+    "prerequisites": {
+      "AND": [
+        {
+          "AND": [
+            "CSE 101",
+            "equivalent"
+          ]
+        },
+        {
+          "AND": [
+            "familiarity with python a plus though not required Enrollment is restricted to sophom",
+            "es juni",
+            "s seni",
+            "s",
+            "graduate students"
+          ]
+        }
+      ]
+    }
+  },
+  "CMPM 147": {
+    "name": "Generative Design",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "147",
+    "prerequisites": "CMPM 120"
+  },
+  "CMPM 148": {
+    "name": "Interactive Storytelling",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "148",
+    "prerequisites": {
+      "AND": [
+        "CSE 101",
+        "CMPM 35 Enrollment is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "CMPM 150": {
+    "name": "Creating Digital Audio",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "150",
+    "prerequisites": {
+      "AND": [
+        "is restricted to sophom",
+        "es juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "CMPM 151": {
+    "name": "Algorithmic Music for Games",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "151",
+    "prerequisites": {
+      "AND": [
+        "CSE 14",
+        "CSE 14L",
+        "CSE 11"
+      ]
+    }
+  },
+  "CMPM 152": {
+    "name": "Musical\u00a0Data",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "152",
+    "prerequisites": {
+      "AND": [
+        "CMPM 35",
+        "CMPM 120",
+        "CMPM 150",
+        "CMPM 151",
+        "by permission of instruct",
+        "Enrollment is restricted to juni",
+        "s seni",
+        "s",
+        "graduate students"
+      ]
+    }
+  },
+  "CMPM 163": {
+    "name": "Game Graphics and Real-Time Rendering",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "163",
+    "prerequisites": {
+      "AND": [
+        "CMPM 120 (exceptions granted in special cases with permission of the instruct",
+        ")"
+      ]
+    }
+  },
+  "CMPM 164": {
+    "name": "Game Engines",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "164",
+    "prerequisites": {
+      "AND": [
+        "CMPM 163",
+        "CSE 160 Concurrent enrollment in CMPM 164L is required"
+      ]
+    }
+  },
+  "CMPM 164L": {
+    "name": "Game Engines Lab",
+    "credits": 2,
+    "label": "CMPM",
+    "id": "164L",
+    "prerequisites": {
+      "AND": [
+        "CMPM 163",
+        "CSE 160 Concurrent enrollment in CMPM 164 is required"
+      ]
+    }
+  },
+  "CMPM 169": {
+    "name": "Creative Coding",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "169",
+    "prerequisites": {
+      "AND": [
+        "CMPM 35",
+        "CMPM 120",
+        "CMPM 163",
+        "by permission of instruct",
+        "Enrollment is restricted to juni",
+        "s seni",
+        "s",
+        "graduate students"
+      ]
+    }
+  },
+  "CMPM 170": {
+    "name": "Game Design Studio I",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "170",
+    "prerequisites": {
+      "AND": [
+        "WRIT 1",
+        {
+          "AND": [
+            "satisfaction of the Entry Level Writing",
+            "Composition requirements"
+          ]
+        },
+        {
+          "AND": [
+            "CMPM 120 ARTG 120",
+            "CSE 111 Enrollment is restricted to Computer science: computer game design maj",
+            "s"
+          ]
+        }
+      ]
+    }
+  },
+  "CMPM 171": {
+    "name": "Game Design Studio",
+    "credits": 7,
+    "label": "CMPM",
+    "id": "171",
+    "prerequisites": {
+      "AND": [
+        "CMPM 121",
+        "CMPM 130",
+        "CMPM 170",
+        "CMPM 176"
+      ]
+    }
+  },
+  "CMPM 172": {
+    "name": "Game Production Studio",
+    "credits": 7,
+    "label": "CMPM",
+    "id": "172",
+    "prerequisites": {}
+  },
+  "CMPM 176": {
+    "name": "Game Systems",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "176",
+    "prerequisites": "CMPM 80K"
+  },
+  "CMPM 177": {
+    "name": "Creative Strategies for Designing Interactive Media",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "177",
+    "prerequisites": {
+      "AND": [
+        "is restricted to juni",
+        "s",
+        "seni",
+        "s"
+      ]
+    }
+  },
+  "CMPM 178": {
+    "name": "Human-Centered Design Research",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "178",
+    "prerequisites": {
+      "AND": [
+        "is restricted to juni",
+        "s seni",
+        "s",
+        "graduate students"
+      ]
+    }
+  },
+  "CMPM 179": {
+    "name": "Game Design Practicum",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "179",
+    "prerequisites": {
+      "AND": [
+        "CMPM 120",
+        "CMPM 80K"
+      ]
+    }
+  },
+  "CMPM 194": {
+    "name": "Group Tutorial",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "194",
+    "prerequisites": {}
+  },
+  "CMPM 194F": {
+    "name": "Group Tutorial",
+    "credits": 2,
+    "label": "CMPM",
+    "id": "194F",
+    "prerequisites": {}
+  },
+  "CMPM 195": {
+    "name": "Senior Thesis Research",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "195",
+    "prerequisites": {}
+  },
+  "CMPM 195F": {
+    "name": "Senior Thesis Research",
+    "credits": 2,
+    "label": "CMPM",
+    "id": "195F",
+    "prerequisites": {}
+  },
+  "CMPM 198": {
+    "name": "Individual Study or Research",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "198",
+    "prerequisites": {}
+  },
+  "CMPM 198F": {
+    "name": "Individual Study or Research",
+    "credits": 2,
+    "label": "CMPM",
+    "id": "198F",
+    "prerequisites": {}
+  },
+  "CMPM 199": {
+    "name": "Tutorial",
+    "credits": 5,
+    "label": "CMPM",
+    "id": "199",
+    "prerequisites": {}
+  },
+  "CMPM 199F": {
+    "name": "Tutorial",
+    "credits": 2,
+    "label": "CMPM",
+    "id": "199F",
+    "prerequisites": {}
+  }
+}
